@@ -7,10 +7,16 @@ This is an advanced version of WPILIB's RobotDrive, which is able to control 6 t
 [![issues](https://img.shields.io/badge/issues-0-lightgrey.svg)](https://img.shields.io/badge/issues-0-lightgrey.svg)
 
 ##Author
+The code is written and tested by Alexander Kaschta.
 
 ##Hall of fame
 
+
 ##How to use it?
+IMPORTANT: This code has been tested with the 2017 WPILIB, including the CTRLib for the CANTalon, Eclipse Neon and a real robot
+
+1. Create a running Robot Java Project
+2. More comming soon
 
 
 ##License
