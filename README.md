@@ -11,6 +11,9 @@ The code is written and tested by Alexander Kaschta.
 
 ##Hall of fame
 
+- [Monsters 308](https://github.com/Monsters-308/FRC2017)
+
+Please write me, if you want to appear in that list
 
 ##How to use it?
 IMPORTANT: This code has been tested with the 2017 WPILIB, including the CTRLib for the CANTalon, Eclipse Neon and a real robot
