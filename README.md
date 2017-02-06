@@ -19,7 +19,8 @@ Please write me, if you want to appear in that list
 IMPORTANT: This code has been tested with the 2017 WPILIB, including the CTRLib for the CANTalon, Eclipse Neon and a real robot
 
 1. Create a running Robot Java Project
-2. More comming soon
+2. Include the libary into the buildpath of the project
+3. Import that class into your code using `import de.codeteddy.robotics.first.AdvancedRobotDrive;`
 
 
 ##License
