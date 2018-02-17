@@ -1,21 +1,21 @@
 # AdvancedRobotDrive
 This is an advanced version of WPILIB's RobotDrive, which is able to control 6 talon's/motor's
 
-##Status
+## Status
 [![version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://img.shields.io/badge/version-1.0-brightgreen.svg)
 [![approved](https://img.shields.io/badge/approved-true-brightgreen.svg)](https://img.shields.io/badge/approved-true-brightgreen.svg)
 [![issues](https://img.shields.io/badge/issues-0-lightgrey.svg)](https://img.shields.io/badge/issues-0-lightgrey.svg)
 
-##Author
+## Author
 The code is written and tested by Alexander Kaschta.
 
-##Hall of fame
+## Hall of fame
 
 - [Monsters 308](https://github.com/Monsters-308/FRC2017)
 
 Please write me, if you want to appear in that list
 
-##How to use it?
+## How to use it?
 IMPORTANT: This code has been tested with the 2017 WPILIB, including the CTRLib for the CANTalon, Eclipse Neon and a real robot
 
 1. Create a running Robot Java Project
@@ -23,7 +23,7 @@ IMPORTANT: This code has been tested with the 2017 WPILIB, including the CTRLib 
 3. Import that class into your code using `import de.codeteddy.robotics.first.AdvancedRobotDrive;`
 
 
-##License
+## License
 ```
 Copyright 2017 Alexander Kaschta
 
